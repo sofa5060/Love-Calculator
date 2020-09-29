@@ -1,0 +1,7 @@
+{
+  "name": "Apex Tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
